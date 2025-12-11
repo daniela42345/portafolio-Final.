@@ -1,0 +1,244 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <tab name="Init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
+  <tab name="New Tab" type="CommonTab" active="true" scrollx="98.6421127319336" scrolly="-219.8787078857422" scale="0.8499023056451357">
+    <block xmlns="https://developers.google.com/blockly/xml" type="whenClicked" id="mX*qdD=9.(=2Wnl`vaR-" inline="false" x="370" y="170">
+      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+      <field name="X_RAY">FALSE</field>
+      <field name="DOUBLE_CLICK">FALSE</field>
+      <field name="LEFT_BUTTON">TRUE</field>
+      <field name="MIDDLE_BUTTON">TRUE</field>
+      <field name="RIGHT_BUTTON">TRUE</field>
+      <value name="VALUE">
+        <shadow type="objectList" id="h~cn#O_4rN#:0$tW1Yjq">
+          <field name="FIELDNAME">taza de tea</field>
+        </shadow>
+      </value>
+      <statement name="DO">
+        <block type="zoomCameraToObject" id="7X)XI6c,g]+N9q=g!j!H">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+          <value name="OBJECT">
+            <shadow type="objectList" id="(Bb}WVz8^5yz7#Yt]Koy">
+              <field name="FIELDNAME">taza de tea</field>
+            </shadow>
+          </value>
+          <value name="DURATION">
+            <shadow type="math_number" id="Nb5Rka9[Dj9V=_(2QEd$">
+              <field name="NUM">1</field>
+            </shadow>
+          </value>
+        </block>
+      </statement>
+      <next>
+        <block type="whenClicked" id="Q%/tKfR,O39TLhd4|=B`" inline="false">
+          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+          <field name="X_RAY">FALSE</field>
+          <field name="DOUBLE_CLICK">FALSE</field>
+          <field name="LEFT_BUTTON">TRUE</field>
+          <field name="MIDDLE_BUTTON">TRUE</field>
+          <field name="RIGHT_BUTTON">TRUE</field>
+          <value name="VALUE">
+            <shadow type="objectList" id="zYrcpJAJg]jn;WL1dL:y">
+              <field name="FIELDNAME">taza de tea</field>
+            </shadow>
+          </value>
+          <statement name="DO">
+            <block type="zoomCameraToObject" id="A.:K*}NQdg_Qd9j#xStH">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+              <value name="OBJECT">
+                <shadow type="objectList" id="3FWg(31;^/Zo3v}}Wz@]">
+                  <field name="FIELDNAME">cuadro 1</field>
+                </shadow>
+              </value>
+              <value name="DURATION">
+                <shadow type="math_number" id="fx+;2Ybv81E.f?1/N/;#">
+                  <field name="NUM">1</field>
+                </shadow>
+              </value>
+            </block>
+          </statement>
+          <next>
+            <block type="whenClicked" id="N,OEz^iy{0E=Y7M5.?W2" inline="false">
+              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+              <field name="X_RAY">FALSE</field>
+              <field name="DOUBLE_CLICK">FALSE</field>
+              <field name="LEFT_BUTTON">TRUE</field>
+              <field name="MIDDLE_BUTTON">TRUE</field>
+              <field name="RIGHT_BUTTON">TRUE</field>
+              <value name="VALUE">
+                <shadow type="objectList" id="uF|}Rgc5wT(Vtg.6,Xnf">
+                  <field name="FIELDNAME">cuadro 1</field>
+                </shadow>
+              </value>
+              <statement name="DO">
+                <block type="zoomCameraToObject" id="++RL^64;Jqb+873BD0e^">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+                  <value name="OBJECT">
+                    <shadow type="objectList" id="mv!D_4VjIalSTUe!8qA:">
+                      <field name="FIELDNAME">cuadro 2</field>
+                    </shadow>
+                  </value>
+                  <value name="DURATION">
+                    <shadow type="math_number" id="4PZt{sEgY.j`jd2nl/fK">
+                      <field name="NUM">1</field>
+                    </shadow>
+                  </value>
+                </block>
+              </statement>
+              <next>
+                <block type="whenClicked" id="KCg~0F}FOdFhlg45ZUPd" inline="false">
+                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                  <field name="X_RAY">FALSE</field>
+                  <field name="DOUBLE_CLICK">FALSE</field>
+                  <field name="LEFT_BUTTON">TRUE</field>
+                  <field name="MIDDLE_BUTTON">TRUE</field>
+                  <field name="RIGHT_BUTTON">TRUE</field>
+                  <value name="VALUE">
+                    <shadow type="objectList" id="Zo[1utbm=jj4NcL{Nu,P">
+                      <field name="FIELDNAME">cuadro 2</field>
+                    </shadow>
+                  </value>
+                  <statement name="DO">
+                    <block type="zoomCameraToObject" id="WEXPZ2V!lnV8ae^w{2rT">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+                      <value name="OBJECT">
+                        <shadow type="objectList" id="Myz}~*@06f/EuL5t3ppS">
+                          <field name="FIELDNAME">cuadro 4</field>
+                        </shadow>
+                      </value>
+                      <value name="DURATION">
+                        <shadow type="math_number" id="P]RJ?W98u_,%KlBd,X{]">
+                          <field name="NUM">1</field>
+                        </shadow>
+                      </value>
+                    </block>
+                  </statement>
+                  <next>
+                    <block type="whenClicked" id="[J]`fTmdvV#`r]OkYJW6" inline="false">
+                      <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                      <field name="X_RAY">FALSE</field>
+                      <field name="DOUBLE_CLICK">FALSE</field>
+                      <field name="LEFT_BUTTON">TRUE</field>
+                      <field name="MIDDLE_BUTTON">TRUE</field>
+                      <field name="RIGHT_BUTTON">TRUE</field>
+                      <value name="VALUE">
+                        <shadow type="objectList" id="{05_%B|{kp531iGqyeYe">
+                          <field name="FIELDNAME">cuadro 4</field>
+                        </shadow>
+                      </value>
+                      <statement name="DO">
+                        <block type="zoomCameraToObject" id="zIv(Avw.eF13*yfprkPs">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+                          <value name="OBJECT">
+                            <shadow type="objectList" id="!|66rT!,~9}|)t9LKUdx">
+                              <field name="FIELDNAME">cuadro 6</field>
+                            </shadow>
+                          </value>
+                          <value name="DURATION">
+                            <shadow type="math_number" id="hpV?E-S#;6V0n%DV{0#j">
+                              <field name="NUM">1</field>
+                            </shadow>
+                          </value>
+                        </block>
+                      </statement>
+                      <next>
+                        <block type="whenClicked" id="%#fMtMDx:Rhubtqc8bff" inline="false">
+                          <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                          <field name="X_RAY">FALSE</field>
+                          <field name="DOUBLE_CLICK">FALSE</field>
+                          <field name="LEFT_BUTTON">TRUE</field>
+                          <field name="MIDDLE_BUTTON">TRUE</field>
+                          <field name="RIGHT_BUTTON">TRUE</field>
+                          <value name="VALUE">
+                            <shadow type="objectList" id="U|VWRZ[_/pg1z_zI:_p0">
+                              <field name="FIELDNAME">cuadro 6</field>
+                            </shadow>
+                          </value>
+                          <statement name="DO">
+                            <block type="zoomCameraToObject" id="!~^jc;1K|VB]/ISTdOq4">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+                              <value name="OBJECT">
+                                <shadow type="objectList" id="pzxp{7F4s)b:/HE2+,=#">
+                                  <field name="FIELDNAME">cuadro 7</field>
+                                </shadow>
+                              </value>
+                              <value name="DURATION">
+                                <shadow type="math_number" id="N2M`wt3Io.t7UK+?,}nl">
+                                  <field name="NUM">1</field>
+                                </shadow>
+                              </value>
+                            </block>
+                          </statement>
+                          <next>
+                            <block type="whenClicked" id="bCRWf0RorsHabb?Z7CU:" inline="false">
+                              <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                              <field name="X_RAY">FALSE</field>
+                              <field name="DOUBLE_CLICK">FALSE</field>
+                              <field name="LEFT_BUTTON">TRUE</field>
+                              <field name="MIDDLE_BUTTON">TRUE</field>
+                              <field name="RIGHT_BUTTON">TRUE</field>
+                              <value name="VALUE">
+                                <shadow type="objectList" id="d@RZSm}?};f%tmnyRWxK">
+                                  <field name="FIELDNAME">cuadro 7</field>
+                                </shadow>
+                              </value>
+                              <statement name="DO">
+                                <block type="zoomCameraToObject" id="QYsWuSUE8jk:QALB_Vf:">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+                                  <value name="OBJECT">
+                                    <shadow type="objectList" id="]$Kf]Z?-rz?mEI%Yvan_">
+                                      <field name="FIELDNAME">cuadro 8</field>
+                                    </shadow>
+                                  </value>
+                                  <value name="DURATION">
+                                    <shadow type="math_number" id="Y9Vt]{x^Sy4l$=-.4mJD">
+                                      <field name="NUM">1</field>
+                                    </shadow>
+                                  </value>
+                                </block>
+                              </statement>
+                              <next>
+                                <block type="whenClicked" id="k*a%P,K#Y?!1Dvw:cPom" inline="false">
+                                  <mutation xmlns="http://www.w3.org/1999/xhtml" adveventoptions="false" enableifmissed="false" useid="false"></mutation>
+                                  <field name="X_RAY">FALSE</field>
+                                  <field name="DOUBLE_CLICK">FALSE</field>
+                                  <field name="LEFT_BUTTON">TRUE</field>
+                                  <field name="MIDDLE_BUTTON">TRUE</field>
+                                  <field name="RIGHT_BUTTON">TRUE</field>
+                                  <value name="VALUE">
+                                    <shadow type="objectList" id="Ab|NO1+}Sf]C@T:KpviZ">
+                                      <field name="FIELDNAME">cuadro 8</field>
+                                    </shadow>
+                                  </value>
+                                  <statement name="DO">
+                                    <block type="zoomCameraToObject" id="fgT9^#.Va;qOKum_sAy+">
+                                      <mutation xmlns="http://www.w3.org/1999/xhtml" whenfinishedslot="false"></mutation>
+                                      <value name="OBJECT">
+                                        <shadow type="objectList" id="4`M;N(IAD6K?~~pcn!gV">
+                                          <field name="FIELDNAME">taza de tea</field>
+                                        </shadow>
+                                      </value>
+                                      <value name="DURATION">
+                                        <shadow type="math_number" id="lU@IzzI]itB@u*],qw*5">
+                                          <field name="NUM">1</field>
+                                        </shadow>
+                                      </value>
+                                    </block>
+                                  </statement>
+                                </block>
+                              </next>
+                            </block>
+                          </next>
+                        </block>
+                      </next>
+                    </block>
+                  </next>
+                </block>
+              </next>
+            </block>
+          </next>
+        </block>
+      </next>
+    </block>
+  </tab>
+  <editorsettings viewport-x="1134" viewport-y="37" viewport-w="768" viewport-h="475.5" viewport-hidden="false" toolbox-library-mode="false" toolbox-minimized-mode="false"></editorsettings>
+</xml>
